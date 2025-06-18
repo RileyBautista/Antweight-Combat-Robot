@@ -8,3 +8,4 @@ Research how combat robots even work
  - [Introduction to Robot Combat](https://www.youtube.com/watch?v=-fyxuHzDUaY) (Got a better understanding of the rules and regulations)
 
 Develop a preliminary BOM relying on supplies mainly from Fingertech Robotics
+idk doing this at 6pm est, got most parts sorted out
